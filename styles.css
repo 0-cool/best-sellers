@@ -1,0 +1,40 @@
+.swiper-scrollbar {
+  background: #d4d4d4;
+  height: 4px;
+  border-radius: 9999px;
+  width: calc(100% - 10rem) !important;
+  margin: -30px auto;
+  left: 0 !important;
+  right: 0 !important;
+  cursor: pointer;
+}
+
+.swiper-scrollbar-drag {
+  background: #1f1f1f;
+  border-radius: 9999px;
+  transition: height 0.2s ease;
+}
+
+.swiper-scrollbar-drag:hover {
+  height: 6px;
+}
+
+.badge {
+  font-size: 10px;
+  letter-spacing: 0.05em;
+  padding: 4px 8px;
+  border-radius: 9999px;
+  border: 1px solid #000;
+  background: white;
+  font-weight: 600;
+}
+
+.badge-save {
+  background: #2f4f3f;
+  color: white;
+  border: none;
+}
+
+.product-card {
+  cursor: pointer;
+}

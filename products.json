@@ -1,0 +1,146 @@
+{
+  "collection": "Best Sellers",
+  "products": [
+    {
+      "id": 1,
+      "title": "Outside Vibes T-Shirt Sunshine",
+      "price": 104.95,
+      "currency": "USD",
+      "rating": 5,
+      "reviews": 1234,
+      "badge": ["BEST SELLER"],
+      "images": {
+        "primary": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf",
+        "secondary": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+      },
+      "background": "bg-yellow-300"
+    },
+    {
+      "id": 2,
+      "title": "Hike Bottle Outside Vibes Forest Green",
+      "price": 104.95,
+      "currency": "USD",
+      "rating": 5,
+      "reviews": 1234,
+      "badge": ["BEST SELLER", "SAVE 15%"],
+      "images": {
+        "primary": "https://images.unsplash.com/photo-1511497584788-876760111969",
+        "secondary": "https://images.unsplash.com/photo-1523275335684-37898b6baf30"
+      },
+      "background": "bg-neutral-200"
+    },
+    {
+      "id": 3,
+      "title": "Rest in Nature T-Shirt Charcoal",
+      "price": 104.95,
+      "currency": "USD",
+      "rating": 5,
+      "reviews": 1234,
+      "badge": ["BEST SELLER"],
+      "images": {
+        "primary": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
+        "secondary": "https://images.unsplash.com/photo-1511497584788-876760111969"
+      },
+      "background": "bg-red-600"
+    },
+    {
+      "id": 4,
+      "title": "Outside Vibes Cap Forest Green",
+      "price": 104.95,
+      "currency": "USD",
+      "rating": 5,
+      "reviews": 1234,
+      "badge": ["BEST SELLER", "SAVE 15%"],
+      "images": {
+        "primary": "https://images.unsplash.com/photo-1573497491765-dccce02b29df",
+        "secondary": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf"
+      },
+      "background": "bg-pink-200"
+    },
+    {
+      "id": 5,
+      "title": "Rest in Nature T-Shirt Charcoal",
+      "price": 104.95,
+      "currency": "USD",
+      "rating": 5,
+      "reviews": 1234,
+      "badge": ["BEST SELLER"],
+      "images": {
+        "primary": "https://images.unsplash.com/photo-1552346154-21d32810aba3",
+        "secondary": "https://images.unsplash.com/photo-1573497491765-dccce02b29df"
+      },
+      "background": "bg-purple-200"
+    },
+
+    {
+      "id": 6,
+      "title": "Trail Hoodie Outside Vibes",
+      "price": 104.95,
+      "currency": "USD",
+      "rating": 5,
+      "reviews": 1234,
+      "badge": ["BEST SELLER"],
+      "images": {
+        "primary": "https://images.unsplash.com/photo-1556821840-3a63f95609a7",
+        "secondary": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf"
+      },
+      "background": "bg-neutral-300"
+    },
+    {
+      "id": 7,
+      "title": "Summit Backpack Forest Green",
+      "price": 104.95,
+      "currency": "USD",
+      "rating": 5,
+      "reviews": 1234,
+      "badge": ["BEST SELLER"],
+      "images": {
+        "primary": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+        "secondary": "https://images.unsplash.com/photo-1552346154-21d32810aba3"
+      },
+      "background": "bg-green-700"
+    },
+    {
+      "id": 8,
+      "title": "Outside Vibes Water Bottle",
+      "price": 104.95,
+      "currency": "USD",
+      "rating": 5,
+      "reviews": 1234,
+      "badge": ["BEST SELLER", "SAVE 15%"],
+      "images": {
+        "primary": "https://images.unsplash.com/photo-1526406915894-7bcd65f60845",
+        "secondary": "https://images.unsplash.com/photo-1511497584788-876760111969"
+      },
+      "background": "bg-blue-300"
+    },
+    {
+      "id": 9,
+      "title": "Camp Mug Outside Vibes",
+      "price": 104.95,
+      "currency": "USD",
+      "rating": 5,
+      "reviews": 1234,
+      "badge": ["BEST SELLER"],
+      "images": {
+        "primary": "https://images.unsplash.com/photo-1509042239860-f550ce710b93",
+        "secondary": "https://images.unsplash.com/photo-1510626176961-4b57d4fbad03"
+      },
+      "background": "bg-orange-300"
+    },
+    {
+      "id": 10,
+      "title": "Outside Vibes Beanie",
+      "price": 104.95,
+      "currency": "USD",
+      "rating": 5,
+      "reviews": 1234,
+      "badge": ["BEST SELLER"],
+      "images": {
+        "primary": "https://images.unsplash.com/photo-1544441893-675973e31985",
+        "secondary": "https://images.unsplash.com/photo-1552346154-21d32810aba3"
+      },
+      "background": "bg-gray-400"
+    }
+  ]
+}
