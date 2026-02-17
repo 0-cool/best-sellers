@@ -1,5 +1,7 @@
 🛍️ Best Sellers – Tailwind + Vanilla JS + Swiper
 
+[Preview](https://best-sellers-platter.netlify.app/)
+
 This project implements a responsive Best Sellers product component based on the provided Figma design.
 
 It is built using:
